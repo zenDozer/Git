@@ -1,0 +1,11 @@
+Сайт exmple.com
+
+				Chrome	Mozilla	Opera	Safari
+1.Реєстрація та профіль
+  а. Реєстрація			Pass	Pass	Pass	Pass
+  б. Редагування профілю	Pass	Fail	Pass	Pass
+2. Форма зворотнього зв'язку
+  а. Валідація полів		Pass	Pass	Fail	Pass
+  б. Відправка повідомлення	Pass	Pass	Fail	Pass
+  в. Доставлення повідомлення	Fail	Pass	Fail	Pass
+
