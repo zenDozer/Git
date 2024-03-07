@@ -97,7 +97,7 @@ git push -u origin Bag_Reports
 
 ```
 git checkout main
-git merge CheckLists
+git merge Bag_Reports
 ```
 
 ***6. Запушить main на внешний репозиторий.***
